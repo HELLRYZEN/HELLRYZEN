@@ -10,8 +10,8 @@
 /><br>
 
 </p>
-'═══════════════════════⊷❍'
-
+══════════════════════⊷❍
+</p>
 <!-- Contact Owner -->
 
 <b><details><summary>Contact</summary></b>
