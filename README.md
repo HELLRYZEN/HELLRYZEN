@@ -6,10 +6,11 @@
 ══════════════════════════//
 // SCOTCH DEVLOPER //
 
-> <a href="https://youtube.com/channel/UCKlJw6zViJ_hgTXBKv6sXgw"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="https://youtube.com/channel/UCKlJw6zViJ_hgTXBKv6sXgw"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO"
+/><br>
 
 </p>
-════════════════════════════════⊷❍
+═════════════════════════⊷❍
 <!-- Contact Owner -->
 
 <b><details><summary>Contact</summary></b>
@@ -18,7 +19,6 @@
 
 <p align="center">
 
-<a href="https://chat.whatsapp.com/LBTP0d3WtMtAu2HCvWGDi1"><img src="https://img.shields.io/badge/Contact Scotch-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
 
 129
 
