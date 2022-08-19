@@ -3,13 +3,12 @@
 <img src="https://i.ibb.co/n0my5rj/Say-Scotch.jpg" alt="nz" width="350"/>
 
 </p>
-════════════════════════════//
-## Scotch //
+══════════════════════════//
+// SCOTCH DEVLOPER //
 
 > <a href="https://youtube.com/channel/UCKlJw6zViJ_hgTXBKv6sXgw"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
-	> [By scotch ](https://github.com/SCORT3X/) by [SCORT3X](github.com/SCORT3X)
-
+</p>
 ════════════════════════════════⊷❍
 <!-- Contact Owner -->
 
