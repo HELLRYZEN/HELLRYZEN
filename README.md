@@ -3,36 +3,24 @@
 <img src="https://i.ibb.co/n0my5rj/Say-Scotch.jpg" alt="nz" width="350"/>
 
 </p>
-══════════════════════════//
-// SCOTCH DEVLOPER //
-
-> <a href="https://youtube.com/channel/UCKlJw6zViJ_hgTXBKv6sXgw"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO"
-/><br>
-
-</p>
-══════════════════════⊷❍
-</p>
-<!-- Contact Owner -->
-
-<b><details><summary>Contact</summary></b>
-
-## ```Connect With Me```
-
+ᴊᴜʟʏ 5тн 😍😜
+ᴡᴀтᴄн ʙᴜт ɴᴏт ꜱᴇᴇ..💭
+нᴇᴀʀ ʙᴜт ɴᴏт ʙᴇʟᵻᴇνᴇ..♥
+тᴏ ʟᴇᴀνᴇ ᴀɴᴅ ɴᴏт тᴏ ʀᴇтᴜʀɴ..💌
+ɪ ᴋɪʟʟᴇᴅ ᴍʏ ᴏᴡɴ ʜᴀᴘᴘɪɴᴇꜱꜱ...✨⚡🥰
+Just I don't know
+Just...!!! 
+ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ 💔
+From India ' Mumbai
+Age 17 + 18 
+Innocent 🥺
+ I love talk to be a good and best frnds we will meet thank for that..... 
+Be a good one 😌⚡🔥
 <p align="center">
 
-
-91726XXXXX
-
-</p>
-
-<a href="https://youtube.com/channel/UCKlJw6zViJ_hgTXBKv6sXgw"><img src="https://img.shields.io/badge/YT Scotch-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<img src="https://c.tenor.com/MAB6l1WjbC0AAAAC/rent-a-girlfriend.gif" alt="nz" width="350"/>
 
 </p>
-
-</details>
-
-</details><hr>
-
 ## Thanks You ... ##
 
 
