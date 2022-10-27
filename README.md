@@ -2,6 +2,8 @@
 
 <img src="https://i.ibb.co/n0my5rj/Say-Scotch.jpg" alt="nz" width="350"/>
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=ɪ+ᴋɪʟʟᴇᴅ+ᴍʏ+ᴏᴡɴ+ʜᴀᴘᴘɪɴᴇꜱꜱ+...+✨⚡🥰.;ꜱᴀʏ+.+ꜱᴄᴏᴛᴄʜ+ 💔+Innocent;🥺)](https://git.io/typing-svg)
+
 </p>
 ᴊᴜʟʏ 5тн 😍😜
 ᴡᴀтᴄн ʙᴜт ɴᴏт ꜱᴇᴇ..💭
