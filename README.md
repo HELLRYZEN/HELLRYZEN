@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://i.ibb.co/6W5pFpc/20221027-174118.jpghttps://i.ibb.co/DkYftSc/20221030-154612.jpg" alt="nz" width="2050"/>
+<img src="https://i.ibb.co/DkYftSc/20221030-154612.jpg" alt="nz" width="2050"/>
 </p>
 
 <h1 align="center"> ʜᴇʟʟʀʏᴢᴇɴ
