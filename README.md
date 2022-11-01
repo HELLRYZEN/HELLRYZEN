@@ -32,4 +32,4 @@
 ## Stats
 ![HELLRYZEN GitHub stats](https://github-readme-stats.vercel.app/api?username=HELLRYZEN&show_icons=true&theme=radical)
 <p align="center"><a href="https://github.com/HELLRYZEN/Chizuru-MD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YTDANIBOTZ&theme=radical&layout=compact"></a></p>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"(https://github.com/HELLRYZEN/Chizuru-MD)/>
