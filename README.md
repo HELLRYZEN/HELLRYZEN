@@ -29,7 +29,7 @@
 <a href="https://instagram.com/say.scotch" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"width="100"/>
 
 <p align="center">
-◈ ━━━━━━━━━━━━━━ ⸙ ━━━━━━━━━━━━━━ ◈
+◈ ━━━━━━━━━━━━━━━━━━━━━━━━ ◈
 
 <h1 align="center"> ꜱᴛᴀᴛꜱ
 
