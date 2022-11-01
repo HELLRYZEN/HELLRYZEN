@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">   
-<a href="https://instagram.com/say.scotch" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- width="180"/>
+<a href="https://instagram.com/say.scotch" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"width="180"/>
 
 <h1 align="center"> ʜᴇʟʟʀʏᴢᴇɴ
 
