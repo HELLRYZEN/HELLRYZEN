@@ -29,6 +29,6 @@
 ![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-## Stats
+<h1 align="center"> ꜱᴛᴀᴛꜱ
 ![HELLRYZEN GitHub stats](https://github-readme-stats.vercel.app/api?username=HELLRYZEN&show_icons=true&theme=radical)
 <p align="center"><a href="https://github.com/HELLRYZEN/Chizuru-MD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YTDANIBOTZ&theme=radical&layout=compact"></a></p>
