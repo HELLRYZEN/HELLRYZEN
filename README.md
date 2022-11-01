@@ -23,7 +23,7 @@
  ɪ ʟᴏᴠᴇ ᴛᴀʟᴋ ᴛᴏ ʙᴇ ᴀ ɢᴏᴏᴅ ᴀɴᴅ ʙᴇꜱᴛ ғʀɴᴅꜱ ᴡᴇ ᴡɪʟʟ ᴍᴇᴇᴛ ᴛʜᴀɴᴋ ғᴏʀ ᴛʜᴀᴛ..... 
 ʙᴇ ᴀ ɢᴏᴏᴅ ᴏɴᴇ 😌⚡🔥
 
-## ᴛʜᴀɴᴋꜱ ʏᴏᴜ ... ##
+<h1 align="center"> ᴛʜᴀɴᴋꜱ ʏᴏᴜ ...
 
 
 ![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
