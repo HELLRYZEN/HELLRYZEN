@@ -6,6 +6,9 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=ɪ+ᴋɪʟʟᴇᴅ+ᴍʏ+ᴏᴡɴ+ʜᴀᴘᴘɪɴᴇꜱꜱ+...+✨⚡🥰.;ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ+💔)](https://git.io/typing-svg)
 
+![My Profile Views](https://gpvc.arturio.dev/HELLRYZEN)
+<br>
+<br>
 </p>
 ᴊᴜʟʏ 5тн 😍😜
 ᴡᴀтᴄн ʙᴜт ɴᴏт ꜱᴇᴇ..💭
