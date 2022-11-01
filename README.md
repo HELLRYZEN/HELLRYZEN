@@ -6,9 +6,7 @@
 <a href="https://instagram.com/say.scotch" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"width="100"/>
 <h1 align="center"> ʜᴇʟʟʀʏᴢᴇɴ
 
-
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=ɪ+ᴋɪʟʟᴇᴅ+ᴍʏ+ᴏᴡɴ+ʜᴀᴘᴘɪɴᴇꜱꜱ+...+✨⚡🥰.;ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ+💔)](https://git.io/typing-svg)
-
 
 </p>
 ᴊᴜʟʏ 5тн 😍😜
@@ -26,7 +24,6 @@
 ʙᴇ ᴀ ɢᴏᴏᴅ ᴏɴᴇ 😌⚡🔥
 
 ## ᴛʜᴀɴᴋꜱ ʏᴏᴜ ... 
-
 
 ![Snake animation](https://github.com/GataNina-Li/GataNina-Li/blob/output/github-contribution-grid-snake.svg)
 </div>
