@@ -3,14 +3,16 @@
 <img src="https://i.ibb.co/DkYftSc/20221030-154612.jpg" alt="nz" width="2050"/>
 </p>
 
+<p align="center">   
+<a href="https://instagram.com/say.scotch" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ width="180"/>
+
 <h1 align="center"> ʜᴇʟʟʀʏᴢᴇɴ
 
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=ɪ+ᴋɪʟʟᴇᴅ+ᴍʏ+ᴏᴡɴ+ʜᴀᴘᴘɪɴᴇꜱꜱ+...+✨⚡🥰.;ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ+💔)](https://git.io/typing-svg)
 
-<p align="hihg">   
-<a href="https://instagram.com/say.scotch" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
+
 </p>
 ᴊᴜʟʏ 5тн 😍😜
 ᴡᴀтᴄн ʙᴜт ɴᴏт ꜱᴇᴇ..💭
