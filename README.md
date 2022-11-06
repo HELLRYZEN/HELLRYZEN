@@ -43,4 +43,4 @@
 
 ### Repo Stats 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=HELLRYZEN&repo=Chizuru-MD &theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=HELLRYZEN&repo=Chizuru-MD&theme=dark)
