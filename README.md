@@ -41,6 +41,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HELLRYZEN&theme=monokai)
 
-### Repo Stats 
+<h1 align="center"> ʀᴇᴘᴏ ꜱᴛᴀᴛꜱ
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=HELLRYZEN&repo=HELLRYZEN&theme=dark)
