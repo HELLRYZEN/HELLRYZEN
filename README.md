@@ -38,3 +38,9 @@
 
 ![HELLRYZEN GitHub stats](https://github-readme-stats.vercel.app/api?username=HELLRYZEN&show_icons=true&theme=radical)
 <p align="center"><a href="https://github.com/HELLRYZEN/Chizuru-MD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YTDANIBOTZ&theme=radical&layout=compact"></a></p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HELLRYZEN&theme=monokai)
+
+### Repo Stats 
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=HELLRYZEN&repo=Chizuru-MD &theme=dark)
