@@ -43,4 +43,4 @@
 
 <h1 align="center"> ʀᴇᴘᴏ ꜱᴛᴀᴛꜱ
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=HELLRYZEN&repo=HELLRYZEN&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=HELLRYZEN&repo=Chizuru-MD&theme=dark)
