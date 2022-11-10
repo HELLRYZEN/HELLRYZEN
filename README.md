@@ -1,7 +1,10 @@
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <p align="center">
 
 <img src="https://i.ibb.co/DkYftSc/20221030-154612.jpg" alt="nz" width="2050"/>
 </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> ʜᴇʟʟʀʏᴢᴇɴ
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF0000&lines=ɪ+ᴋɪʟʟᴇᴅ+ᴍʏ+ᴏᴡɴ+ʜᴀᴘᴘɪɴᴇꜱꜱ+...+✨⚡🥰.;ꜱᴀʏ.ꜱᴄᴏᴛᴄʜ+💔)](https://git.io/typing-svg)
