@@ -40,7 +40,3 @@
 <p align="center"><a href="https://github.com/HELLRYZEN/Chizuru-MD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELLRYZEN&theme=radical&layout=compact"></a></p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HELLRYZEN&theme=monokai)
-
-<h1 align="center"> ʀᴇᴘᴏ ꜱᴛᴀᴛꜱ
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=HELLRYZEN&repo=Miku-MD&theme=dark)
